@@ -8,5 +8,4 @@
 
 ## Install system-wide
 
-    sudo wget https://git.h3n.eu/HerHde/bashrc/raw/master/bash.bashrc -O /etc/bash.bashrc
-    sudo rm /etc/skel/.bashrc
+    sudo wget https://git.h3n.eu/HerHde/bashrc/raw/master/bash.bashrc -O /etc/bash.bashrc && sudo rm /etc/skel/.bashrc
